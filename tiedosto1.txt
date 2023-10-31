@@ -1,4 +1,0 @@
-Tiedosto 1 juuressa
-muutettu 31.10
-git add -p testaus
-
